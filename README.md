@@ -80,3 +80,9 @@ Covers all key data structure operations
 Suitable for beginners and college practical reference
 
 Includes search, sort, stack, queue, linked list, and tree algorithms
+
+
+Thankyou for your visit.
+If you have any suggestion or any query related to this Repo,
+You can Leave your comment on krishnamarke07@gmail.co.
+I will try to resolve your query as soon as possible.
