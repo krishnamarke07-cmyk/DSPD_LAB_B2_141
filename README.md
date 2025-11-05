@@ -81,14 +81,21 @@ Suitable for beginners and college practical reference
 
 Includes search, sort, stack, queue, linked list, and tree algorithms
 
-https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p1A_b2_141.c
-https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p1B_b2_141.c
-https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p1C_b2_141.c
-https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p2_b2_141.c
-https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p3_b2_141.c
-https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p4_b2_141.c
-https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p5_b2_141.c
-https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p6_b2_141.c
+Practical 1A : https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p1A_b2_141.c
+
+Practical 2A : https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p1B_b2_141.c
+
+Practical 2C : https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p1C_b2_141.c
+
+Practical 2 : https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p2_b2_141.c|
+
+Practical 3 : https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p3_b2_141.c
+
+Practical 4 : https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p4_b2_141.c
+
+Practical 5 : https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p5_b2_141.c
+
+Practical 6 : https://github.com/krishnamarke07-cmyk/DSPD_LAB_B2_141/blob/main/dspd_p6_b2_141.c
 
 Thankyou for your visit.
 If you have any suggestion or any query related to this Repo,
