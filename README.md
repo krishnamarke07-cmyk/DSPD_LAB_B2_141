@@ -1,5 +1,82 @@
 # DSPD_LAB_B2_141
- Brief Introduction of this Repository:-
- Repository has been part of learning and teaching material for the most of the Engineering and Science Institutes around the country for years now.
-This Repo contains total 10 Lab Practical Problems of C language on different topics like Operators,Loops, Functions and Recursions, Array, Strings and Pointers, Structure and File Handling etc. which covers maximum part of any Programming Language.
-Go through all these programs to learn How to solve any program or How to approach towards the solution of given problem . I solved many problems in different different ways through which you can grasp that concept easily and quickly.
+This repository contains 6 C programs developed as part of the Data Structure and Program Design (DSPD) college practicals.
+Each program demonstrates fundamental data structure concepts such as arrays, stacks, queues, linked lists, and trees using clear and modular C implementations.
+
+📂 Contents
+Practical 1
+
+A. Accept ‘n’ numbers into an array and calculate the sum of elements at odd and even positions.
+B. Implement Binary Search algorithm with step-by-step output showing midpoints and index adjustments.
+C. Create a structure Student with fields including average marks and sort the list of students in descending order using Bubble Sort.
+
+Practical 2 — Stack (Array Implementation)
+
+Menu-driven program to perform:
+
+Push an element
+
+Pop an element
+
+Check Palindrome using Stack
+
+Demonstrate Overflow and Underflow conditions
+
+Display Stack status
+
+Practical 3 — Queue (Array Implementation)
+
+Menu-driven program to perform:
+
+Insert an element
+
+Delete an element
+
+Demonstrate Overflow and Underflow
+
+Display Queue status
+
+Practical 4 — Singly Linked List
+
+Program to:
+
+Create a linked list of integers
+
+Traverse and display the list
+
+Display the number of nodes
+
+Practical 5 — Binary Tree
+
+Program to:
+
+Insert multiple nodes into a Binary Tree
+
+Perform Inorder, Preorder, and Postorder traversals
+
+Search for an element (Display “Found” or “NULL”)
+
+Practical 6 — Binary Search Tree (BST)
+
+Menu-driven program to:
+
+Search an element in BST (Display “Found” or “NULL”)
+
+Insert an element
+
+Delete a leaf node
+
+Exit
+
+⚙️ Language Used
+
+C Programming
+
+💡 Features
+
+Clean and modular code
+
+Covers all key data structure operations
+
+Suitable for beginners and college practical reference
+
+Includes search, sort, stack, queue, linked list, and tree algorithms
